@@ -1,4 +1,4 @@
-# COHRINT Teleop for Jackal
+# COHRINT Teleop
 
 This repo makes use of the modified teleoperation package provided by [Clearpath Robotics](https://www.clearpathrobotics.com/assets/guides/melodic/jackal/simulation.html).
 
