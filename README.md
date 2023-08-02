@@ -6,9 +6,10 @@ Requriers a working installation of ROS Melodic.
 
 ### Launching the teleop node
 
-First, clone this github repo, and navigate into `teleoperation/robot_control` and run the following command:
+First, clone this github repo, and navigate into `teleoperation/robot_control` and run the following commands:
 
 ```
+catkin_make
 source devel/setup.sh
 ```
 
