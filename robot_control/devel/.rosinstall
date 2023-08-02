@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/jake/COHRINT/teleoperation/robot_control/devel/setup.sh
