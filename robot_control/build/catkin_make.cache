@@ -1,2 +1,0 @@
-
--DCATKIN_DEVEL_PREFIX=/home/jake/COHRINT/teleoperation/robot_control/devel -DCMAKE_INSTALL_PREFIX=/home/jake/COHRINT/teleoperation/robot_control/install -G Unix Makefiles
