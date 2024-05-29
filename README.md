@@ -2,7 +2,7 @@
 
 This repo makes use of the modified teleoperation package provided by [Clearpath Robotics](https://www.clearpathrobotics.com/assets/guides/melodic/jackal/simulation.html).
 
-Requriers a working installation of ROS Melodic.
+Requriers a working installation of ROS Noetic, and the teleop-twist-joy package which can be installed via `sudo apt install ros-noetic-teleop-twist-joy`.
 
 ### Launching the teleop node
 
